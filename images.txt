@@ -1,1 +1,1 @@
-1panel/openresty:1.27.1.2-2-3-focal
+cloudflare/cloudflared:latest
